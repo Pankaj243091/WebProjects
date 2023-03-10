@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: url(/image/6142626.jpg);
+    background-size: 1920px;
+}
+li{
+    color: rgb(240, 25, 25); font-size: 20px; font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color: rgb(94, 6, 52);  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    color: rgb(24, 94, 6); font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.li-special{
+    font-size: 50px;
+}
+span {
+    color: navy;
+}
